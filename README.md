@@ -35,7 +35,8 @@ Si deseas contribuir a este proyecto, por favor sigue estos pasos:
 ## Licencia
 
 Este proyecto está bajo la Licencia [MIT](https://opensource.org/licenses/MIT).
-![Uploading Badge-Spring.png…]()
+
+
 
 ![Badge-Spring](https://github.com/lau1999/Challenge-Foro-Hub/assets/135270242/13c28f65-c5a0-47fe-8b2a-d59f7fe7a5b0)
 
